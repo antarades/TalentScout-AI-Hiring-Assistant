@@ -25,7 +25,7 @@ TalentScout is an intelligent, interactive hiring assistant chatbot built using 
 
 ## 🖥️ Demo
 
-https://www.loom.com/share/your-demo-link-here *(Replace with your Loom link if available)*
+[Watch the Demo on YouTube! ](https://youtu.be/TJgFq3gcioI)
 
 ---
 
@@ -34,8 +34,7 @@ https://www.loom.com/share/your-demo-link-here *(Replace with your Loom link if 
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/talent-scout-chatbot.git
-cd talent-scout-chatbot
+git clone https://github.com/antarades/TalentScout-AI-Hiring-Assistant
 
 ```
 
@@ -110,5 +109,5 @@ This project is for academic purposes under fair use. For commercial or extended
 
 ## 🙋‍♀️ Author
 Built by Antara Srivastava
-GitHub: github.com/antarades
-Email: antarakyw05@gmail.com
+📧 antarakyw05@gmail.com
+🌐 github.com/antarades
