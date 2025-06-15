@@ -35,7 +35,7 @@ TalentScout is an intelligent, interactive hiring assistant chatbot built using 
 
 ```bash
 git clone https://github.com/antarades/TalentScout-AI-Hiring-Assistant
-
+cd TalentScout-AI-Hiring-Assistant
 ```
 
 ### 2. **Install Dependencies**
